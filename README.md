@@ -1,4 +1,4 @@
-# SCRIPTS SHELL - Ir devagar e ensinar POSTMAN CARA!
+# SCRIPTS SHELL - Ir devagar e ensinar POSTMAN!
 
 ```shell
 npm install bcrypt dotenv express jsonwebtoken mongoose
